@@ -1,0 +1,16 @@
+#WBO low-side (D2PAK, TO220)
+Q600,
+Q601,
+#WBO STM32
+U602,
+#IGN IGBT
+Q1,
+Q2,
+Q3,
+Q4,
+Q5,
+Q6,
+#3.3 reference
+U603,"REF3333AIDBZR","SOT-23","C130016"
+#low-side
+Q7,"BSP78","SOT-223","C56914"

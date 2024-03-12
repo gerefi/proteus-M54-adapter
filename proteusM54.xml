@@ -1,0 +1,3099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Work\gerefi\github\proteus-M54-adapter\proteusM54.kicad_sch</source>
+    <date>14.11.2021 1:54:38</date>
+    <tool>Eeschema (5.99.0-13086-gffd1139cfe)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>proteusM54</title>
+        <company>gerefi</company>
+        <rev>a</rev>
+        <date>2021-11-14</date>
+        <source>proteusM54.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BRD1">
+      <value>proteus</value>
+      <footprint>kicad6-libraries:proteus</footprint>
+      <libsource lib="proteus" part="proteus" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89196332-67b6-4e46-b70f-7ea4043fdc87</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6cac000-16af-43f6-8de2-33b637686f40</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47p</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f307cd87-24ab-44f0-a8f7-d600e8c56a4e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89574a8c-4563-4804-8dd9-24c3a56ac3be</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47p</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd123b59-0d2a-431a-873d-429564865943</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC_ext">0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="LCSC_ext" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28cba117-9bd2-4db9-9f0e-d2b8054bf40e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC_ext">0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="LCSC_ext" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c03e0af2-9c47-482f-9cc3-506a4343d5ee</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC_ext">0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="LCSC_ext" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>470d103d-ddc6-4e71-b3d5-0941fe25c3d0</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC_ext">0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="LCSC_ext" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d993c87-dcee-4e0e-bd67-791c73927f16</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC_ext">0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="LCSC_ext" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1418e38c-fd23-4bd1-908c-e8cc9d2dd2bd</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e26bd049-fd33-40c8-8ec8-2184c83d4185</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b12ce620-c1e3-4c0e-861c-3832fa56ad57</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfcfeb74-3542-4fa3-b7ad-7c40efcf8a98</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01aef8f9-8da1-4907-89b6-230a4cefe651</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fee3ae5-9653-4415-80f0-f289e4591911</tstamps>
+    </comp>
+    <comp ref="F6">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7bf2c2e-61e5-46a0-b990-a3f8114666a9</tstamps>
+    </comp>
+    <comp ref="F7">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f14e9535-2fc8-45e0-88b4-bdd850192e2e</tstamps>
+    </comp>
+    <comp ref="F8">
+      <value>10A</value>
+      <footprint>hellen-one-common:36911600000</footprint>
+      <fields>
+        <field name="LCSC">C354908</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C354908"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f22118e-b867-4f25-bfc4-40cac89ca236</tstamps>
+    </comp>
+    <comp ref="G1">
+      <value>gerefi_LOGO</value>
+      <footprint>kicad6-libraries:gerefi_logo</footprint>
+      <libsource lib="gerefi_logo" part="gerefi_LOGO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b18adb0-b106-43ab-a82a-a487bea1025d</tstamps>
+    </comp>
+    <comp ref="G2">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83589bd2-e74c-43f1-99fd-5c3d28f3fe62</tstamps>
+    </comp>
+    <comp ref="G3">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77857b4d-9666-453b-bb12-3cc4749b86d3</tstamps>
+    </comp>
+    <comp ref="G4">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09dd5076-c041-43dc-bf10-8d714f441e37</tstamps>
+    </comp>
+    <comp ref="G5">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98ebecc6-7a7e-44e9-af64-014ef9f18925</tstamps>
+    </comp>
+    <comp ref="G6">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c845887e-1cbd-47e2-9aae-812b95a8c81e</tstamps>
+    </comp>
+    <comp ref="G7">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eae9127-ec49-421b-a8c6-2ade63ea0628</tstamps>
+    </comp>
+    <comp ref="G8">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9832a7e-01a1-4b4b-98aa-2b3cd0b91138</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e0d26e3-4de6-41f8-9920-73fdee942935</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df4a816d-2be8-4727-b50d-b7e2e40c1536</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>398f8f70-e91c-4da2-a829-819a6f9d0c83</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_5.5mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57f0c776-644e-414e-95db-8ddedeb7a0b5</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_5.5mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1577122-5e76-4388-a4fd-b7b8ace1ef2e</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D4.0mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cac695e-f325-4f5e-af04-39b54d6dbfd0</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>7-967288-1</value>
+      <footprint>kicad6-libraries:TE_7-967288-1</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F967288%7FF1%7Fpdf%7FGerman%7FGER_CD_967288_F1_967288-c.pdf%7F7-967288-1</datasheet>
+      <fields>
+        <field name="Description">AMP - TE CONNECTIVITY - 7-967288-1 - AUTOMOTIVE CONN, PLUG, R/A, 134POS, PCB</field>
+        <field name="Height">25.5</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">7-967288-1</field>
+        <field name="Mouser Part Number">571-7-967288-1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/7-967288-1/?qs=4GfDZFxiN8v4VyLYMsjm7g%3D%3D</field>
+      </fields>
+      <libsource lib="TE_7-967288-1" part="7-967288-1" description="AMP - TE CONNECTIVITY - 7-967288-1 - AUTOMOTIVE CONN, PLUG, R/A, 134POS, PCB"/>
+      <property name="Description" value="AMP - TE CONNECTIVITY - 7-967288-1 - AUTOMOTIVE CONN, PLUG, R/A, 134POS, PCB"/>
+      <property name="Height" value="25.5"/>
+      <property name="Mouser Part Number" value="571-7-967288-1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/7-967288-1/?qs=4GfDZFxiN8v4VyLYMsjm7g%3D%3D"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="7-967288-1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf823ff2-ce22-4191-add5-7be04cfb9ac4</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>XH-10AW</value>
+      <footprint>Connector_JST:JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C14652</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C14652"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aed702f-2ade-4d52-9029-bb321973ed13</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>Module-can-0.1</value>
+      <footprint>hellen-one-can-0.1:can</footprint>
+      <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ade6cfb0-8ec1-44e7-b4a1-c4a3643afa51</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>Module-wbo-0.3</value>
+      <footprint>hellen-one-wbo-0.3:wbo</footprint>
+      <libsource lib="hellen-one-wbo-0.3" part="Module-wbo-0.3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>191fbf7a-974c-4bcb-9b38-385139bfbf97</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>288f4d32-b5c8-443f-8e86-eadd23d60f56</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b70366a-4c2f-4a9a-b217-b5a35819ce5f</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d0feca3-12be-414f-8551-a8de05f49f6d</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebb8684c-4cab-4ee7-ad16-c7e2f9d2cf2b</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbc1e0ee-0e75-4109-bec5-f7c5a680dacf</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7cccf20-af8f-4c60-9550-9ffe8d4d0f80</tstamps>
+    </comp>
+    <comp ref="P7">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da0d8767-b98e-4f7c-ae85-27779705f122</tstamps>
+    </comp>
+    <comp ref="P8">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c072cb97-094b-4f16-87ee-c9eee4c82bb8</tstamps>
+    </comp>
+    <comp ref="P9">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>193d0c0d-99c5-48e5-9aef-31f98c9c1e5a</tstamps>
+    </comp>
+    <comp ref="P10">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84008889-2ec0-4d97-bc64-a140c946ddfb</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>208842bb-38e3-4c80-be3e-f2aa1f05a51f</tstamps>
+    </comp>
+    <comp ref="P12">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e2acfcc-775a-44b6-8497-7f8d110320b2</tstamps>
+    </comp>
+    <comp ref="P13">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d580cb4-2c44-4d03-a0b6-92a7c54681b7</tstamps>
+    </comp>
+    <comp ref="P14">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc03d24a-8e60-42f3-ba48-50b069842a25</tstamps>
+    </comp>
+    <comp ref="P15">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6a152b5-2b8a-4186-b8e6-8009ecc61f26</tstamps>
+    </comp>
+    <comp ref="P16">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2623883b-4cd0-474b-9e62-c202611873d8</tstamps>
+    </comp>
+    <comp ref="P17">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3e89373-e90b-4b57-8c78-5cf7b0cbb3ab</tstamps>
+    </comp>
+    <comp ref="P18">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a16164-32b7-4707-81b1-85692c5d5d0d</tstamps>
+    </comp>
+    <comp ref="P19">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4f5fb4-18ea-424d-837f-bf3eb51e7e66</tstamps>
+    </comp>
+    <comp ref="P20">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e26b0f17-6864-425f-a9e3-ef6b7dce5756</tstamps>
+    </comp>
+    <comp ref="P21">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bf02b1a-3e2d-4b1d-b4d6-6a04b0230e0d</tstamps>
+    </comp>
+    <comp ref="P22">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e67d8b-190d-424d-98f3-5c81f72939f7</tstamps>
+    </comp>
+    <comp ref="P23">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9f41e20-11a7-49f0-a729-b7273a37d8e9</tstamps>
+    </comp>
+    <comp ref="P24">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6ef2fc-6b04-4726-8fbd-c7f3b0fd0208</tstamps>
+    </comp>
+    <comp ref="P25">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76f2fc95-0ef8-4368-9039-b6a0df753ef6</tstamps>
+    </comp>
+    <comp ref="P26">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>068f654d-54c9-4655-9c06-0c298a8b3200</tstamps>
+    </comp>
+    <comp ref="P27">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc04dc88-9a65-4065-9b8d-b73ae07aaa35</tstamps>
+    </comp>
+    <comp ref="P28">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74c0ae45-ccf0-454d-8bf2-776590450bec</tstamps>
+    </comp>
+    <comp ref="P29">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>677df069-7222-487e-8db7-a5d91075a991</tstamps>
+    </comp>
+    <comp ref="P30">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46281ab0-a16d-463f-8ff2-fe72ae3d7ed8</tstamps>
+    </comp>
+    <comp ref="P31">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa291441-e9bd-4dae-b503-061df25ffab6</tstamps>
+    </comp>
+    <comp ref="P32">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8223fea7-b981-407f-be40-60ad59a3e266</tstamps>
+    </comp>
+    <comp ref="P33">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f35478a9-4a6d-4d5e-bdaa-3351770b1654</tstamps>
+    </comp>
+    <comp ref="P34">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13b93aec-69ee-48d4-872f-8d1a1932242a</tstamps>
+    </comp>
+    <comp ref="P35">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5604e17-6e24-4dcc-bcb6-573868758156</tstamps>
+    </comp>
+    <comp ref="P36">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74463cc0-c882-4cc8-bd7e-c14523b91e4d</tstamps>
+    </comp>
+    <comp ref="P37">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5fc587e-28fa-43d7-9f7e-af7a3d3ca42c</tstamps>
+    </comp>
+    <comp ref="P38">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e49e68e6-4036-41bb-b2c3-547cfbaa51ef</tstamps>
+    </comp>
+    <comp ref="P39">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d16bb5a-d63e-4838-9d0b-dd43ea425313</tstamps>
+    </comp>
+    <comp ref="P40">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>265da537-a85c-44b4-b8c4-fbc499844d57</tstamps>
+    </comp>
+    <comp ref="P41">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c001f629-430d-4a06-af11-146c22ac73f6</tstamps>
+    </comp>
+    <comp ref="P42">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfa951f4-4166-47d5-8fe6-a8bbee8ecf0f</tstamps>
+    </comp>
+    <comp ref="P43">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f5b3fa1-0a14-4aa5-9978-2b10e6583d95</tstamps>
+    </comp>
+    <comp ref="P44">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84ead755-a011-472f-8716-fea6e62fb7e0</tstamps>
+    </comp>
+    <comp ref="P45">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b675534b-6d58-479c-b911-914b081a8375</tstamps>
+    </comp>
+    <comp ref="P46">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ded28e54-162d-4c29-a068-cfcbea01d1d5</tstamps>
+    </comp>
+    <comp ref="P47">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c16e0a5-68cf-4932-86b3-8c3143688731</tstamps>
+    </comp>
+    <comp ref="P48">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f89162a6-8055-4a74-9e8a-58ada19cc09d</tstamps>
+    </comp>
+    <comp ref="P49">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cfe22aa-37e8-4205-a49a-5709543dc359</tstamps>
+    </comp>
+    <comp ref="P50">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df0055c3-448d-4e17-8a1a-0acf78e2222b</tstamps>
+    </comp>
+    <comp ref="P51">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e567b5d0-4df5-4d72-8e61-d5ccd34df9b5</tstamps>
+    </comp>
+    <comp ref="P52">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6514b1e-ce0d-40ad-8dbc-e91be54cd626</tstamps>
+    </comp>
+    <comp ref="P53">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c6d6858-39b7-4869-bb14-0766b44210b3</tstamps>
+    </comp>
+    <comp ref="P54">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce7eaa59-12ce-4667-8861-eab608bcef2f</tstamps>
+    </comp>
+    <comp ref="P55">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>495c3a02-c408-43ee-acda-32d7824e0a9e</tstamps>
+    </comp>
+    <comp ref="P56">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5a19e08-4dfa-4ef3-a475-e0c1a2e70012</tstamps>
+    </comp>
+    <comp ref="P57">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ce7bd4f-a795-4a56-9ab9-4f070c118a57</tstamps>
+    </comp>
+    <comp ref="P58">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82f70a8c-23d7-4edd-bccb-8f6a65491073</tstamps>
+    </comp>
+    <comp ref="P59">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af9e63f-062f-4930-84ce-4eb9aca982b4</tstamps>
+    </comp>
+    <comp ref="P60">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dba8116f-4ade-4320-b409-d3aea44312b6</tstamps>
+    </comp>
+    <comp ref="P61">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8e03942-ae2e-48fb-932a-397f2f90b09d</tstamps>
+    </comp>
+    <comp ref="P62">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2081d37e-fcf3-43e0-8ab3-ecbd827fa43f</tstamps>
+    </comp>
+    <comp ref="P63">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e978842-9f64-4d3f-a627-701bfbb6096f</tstamps>
+    </comp>
+    <comp ref="P64">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5535de8b-3d39-4841-9e2d-28fe3f1d021d</tstamps>
+    </comp>
+    <comp ref="P65">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16c01421-9e66-4d30-90ec-564c4d463cbb</tstamps>
+    </comp>
+    <comp ref="P66">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e4cda40-b14d-4211-90b4-a585fe6ba726</tstamps>
+    </comp>
+    <comp ref="P67">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14a04a3d-1505-4138-a30a-1b0c1cc68733</tstamps>
+    </comp>
+    <comp ref="P68">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fb98679-536b-4528-aad2-046f393e5b90</tstamps>
+    </comp>
+    <comp ref="P69">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e47fbdf8-ab3a-461b-935e-17b8fa44cedf</tstamps>
+    </comp>
+    <comp ref="P70">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c6897bf-a355-4730-a146-5c5b50d3e7d5</tstamps>
+    </comp>
+    <comp ref="P71">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f55d1f7-f80c-492b-a2b6-6b0f730a6a45</tstamps>
+    </comp>
+    <comp ref="P72">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f06eaa8d-c2e5-4e92-92d7-b24bab191649</tstamps>
+    </comp>
+    <comp ref="P73">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0499a2b5-9836-4d90-a4ac-33f993b3dabb</tstamps>
+    </comp>
+    <comp ref="P74">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac687b9-ec26-406f-be89-56cc8f7bcd2e</tstamps>
+    </comp>
+    <comp ref="P75">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80d1f00a-7d25-4f57-b169-706ae0aa4b45</tstamps>
+    </comp>
+    <comp ref="P76">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1381086-779b-4864-8f5c-2645e7af0fa3</tstamps>
+    </comp>
+    <comp ref="P77">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8ceb4ba-a8e8-49c0-bcb6-ea14e82865e9</tstamps>
+    </comp>
+    <comp ref="P78">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d618336-9a17-4e61-9801-01c17456798c</tstamps>
+    </comp>
+    <comp ref="P79">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c94b210-d60e-4c62-9947-23aaedadac26</tstamps>
+    </comp>
+    <comp ref="P80">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094d9616-3459-420f-bd18-840f36ce7ad8</tstamps>
+    </comp>
+    <comp ref="P81">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01703e65-6266-479f-b719-5d08f1107f8c</tstamps>
+    </comp>
+    <comp ref="P82">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11a1e1fc-3052-499f-adff-ba676e572271</tstamps>
+    </comp>
+    <comp ref="P83">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14bf8cfe-2941-4c97-8f40-d834fc20e1f3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd58c871-8fdb-4427-ba01-aafce33f6aaf</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60f65025-9d32-40f9-a9a4-2c89bbfdbd13</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae223779-d70e-4a20-9e53-559af95eea2a</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e84df29-ac37-4ffb-86cb-77ca5ff61ce0</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1749ba1-99f8-4781-a331-a0e15778bcee</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>ISL9V3040S3S</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C898702</field>
+      </fields>
+      <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C898702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1389f4a8-ea61-4c4f-b350-937c9265e755</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>AUIPS2041LTR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57</datasheet>
+      <fields>
+        <field name="LCSC">C113610</field>
+      </fields>
+      <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
+      <property name="LCSC" value="C113610"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87ff0594-befc-493a-b22c-31ae15f349ed</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c6d90c1-31c6-40a2-93ae-7b0e5627c91b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abc5f97a-5030-4d5a-9595-c87bc71e7a85</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0d0243-6eb0-4467-b6ed-945ea33f92c4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e5bd35d-44fa-4ed3-a29d-c024cdb152f1</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>51k</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23196</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23196"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1731975e-4494-49a8-8556-7efc5a16fbdf</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>51k</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23196</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23196"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dad2259b-2b6a-44ab-8815-bdb39c5c169b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>391909a1-1e02-4240-b6d7-be54020c96c8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>679b31ec-ae80-4e04-8de4-1f679722907f</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>22</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23345"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8491b9b0-9972-45b4-b188-0f7d75946da2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d7c7ae9-f0b1-4722-bff3-1d9775f7a33c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96f6fca8-9560-4616-9072-b868474ba0ec</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f44c45bb-fe3a-4199-9986-2c2249c0a657</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c674bc85-4153-4a53-8487-d65a2de33ded</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f479fb9-a445-49cb-b2d2-77872b71e316</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5864d3d7-7ac9-4905-999a-a6b08fe32f61</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C60489</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C60489"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e00a1ce-00f4-4346-9390-c3479b879c62</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MPXxx6115A</value>
+      <footprint>kicad6-libraries:MPX_SOP_SSOP</footprint>
+      <libsource lib="MPX_SOP_SSOP" part="MPXxx6115A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7502f016-0fd0-43bd-9866-61441758a331</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MPX4/MPXH6400_MAP</value>
+      <footprint>kicad6-libraries:MPX-4_MAP</footprint>
+      <libsource lib="MPX-4_MAP" part="MPX4{slash}MPXH6400_MAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="proteusM54.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa0d07b6-c9c4-4509-9b49-2e41f6da51d9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NIGBT_GCE">
+      <description>N-IGBT transistor, gate/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NIGBT_GCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MPX-4_MAP" part="MPX4{slash}MPXH6400_MAP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPX4{slash}MPXH6400_MAP</field>
+        <field name="Footprint">kicad6-libraries:MPX-4_MAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="VCC" type="passive"/>
+        <pin num="4" name="V1" type="passive"/>
+        <pin num="5" name="V2" type="passive"/>
+        <pin num="6" name="V_EX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MPX_SOP_SSOP" part="MPXxx6115A">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPXxx6115A</field>
+        <field name="Footprint">kicad6-libraries:MPX_SOP_SSOP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="passive"/>
+        <pin num="2" name="Vs" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="Vout" type="passive"/>
+        <pin num="5" name="NC" type="passive"/>
+        <pin num="6" name="NC" type="passive"/>
+        <pin num="7" name="NC" type="passive"/>
+        <pin num="8" name="NC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Management" part="AUIPS2041L">
+      <description>Intelligent Power Low Side Switch, 68V, 5A, SOT-223</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AUIPS2041L</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TE_7-967288-1" part="7-967288-1">
+      <description>AMP - TE CONNECTIVITY - 7-967288-1 - AUTOMOTIVE CONN, PLUG, R/A, 134POS, PCB</description>
+      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F967288%7FF1%7Fpdf%7FGerman%7FGER_CD_967288_F1_967288-c.pdf%7F7-967288-1</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">7-967288-1</field>
+        <field name="Footprint">kicad6-libraries:TE_7-967288-1</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F967288%7FF1%7Fpdf%7FGerman%7FGER_CD_967288_F1_967288-c.pdf%7F7-967288-1</field>
+        <field name="Description">AMP - TE CONNECTIVITY - 7-967288-1 - AUTOMOTIVE CONN, PLUG, R/A, 134POS, PCB</field>
+        <field name="Height">25.5</field>
+        <field name="Mouser Part Number">571-7-967288-1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/7-967288-1/?qs=4GfDZFxiN8v4VyLYMsjm7g%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">7-967288-1</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A2" name="A2" type="passive"/>
+        <pin num="A3" name="A3" type="passive"/>
+        <pin num="A4" name="A4" type="passive"/>
+        <pin num="A5" name="A5" type="passive"/>
+        <pin num="A6" name="A6" type="passive"/>
+        <pin num="A7" name="A7" type="passive"/>
+        <pin num="A8" name="A8" type="passive"/>
+        <pin num="A9" name="A9" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B2" name="B2" type="passive"/>
+        <pin num="B3" name="B3" type="passive"/>
+        <pin num="B4" name="B4" type="passive"/>
+        <pin num="B5" name="B5" type="passive"/>
+        <pin num="B6" name="B6" type="passive"/>
+        <pin num="B7" name="B7" type="passive"/>
+        <pin num="B8" name="B8" type="passive"/>
+        <pin num="B9" name="B9" type="passive"/>
+        <pin num="B10" name="B10" type="passive"/>
+        <pin num="B11" name="B11" type="passive"/>
+        <pin num="B12" name="B12" type="passive"/>
+        <pin num="B13" name="B13" type="passive"/>
+        <pin num="B14" name="B14" type="passive"/>
+        <pin num="B15" name="B15" type="passive"/>
+        <pin num="B16" name="B16" type="passive"/>
+        <pin num="B17" name="B17" type="passive"/>
+        <pin num="B18" name="B18" type="passive"/>
+        <pin num="B19" name="B19" type="passive"/>
+        <pin num="B20" name="B20" type="passive"/>
+        <pin num="B21" name="B21" type="passive"/>
+        <pin num="B22" name="B22" type="passive"/>
+        <pin num="B23" name="B23" type="passive"/>
+        <pin num="B24" name="B24" type="passive"/>
+        <pin num="C1" name="C1" type="passive"/>
+        <pin num="C2" name="C2" type="passive"/>
+        <pin num="C3" name="C3" type="passive"/>
+        <pin num="C4" name="C4" type="passive"/>
+        <pin num="C5" name="C5" type="passive"/>
+        <pin num="C6" name="C6" type="passive"/>
+        <pin num="C7" name="C7" type="passive"/>
+        <pin num="C8" name="C8" type="passive"/>
+        <pin num="C9" name="C9" type="passive"/>
+        <pin num="C10" name="C10" type="passive"/>
+        <pin num="C11" name="C11" type="passive"/>
+        <pin num="C12" name="C12" type="passive"/>
+        <pin num="C13" name="C13" type="passive"/>
+        <pin num="C14" name="C14" type="passive"/>
+        <pin num="C15" name="C15" type="passive"/>
+        <pin num="C16" name="C16" type="passive"/>
+        <pin num="C17" name="C17" type="passive"/>
+        <pin num="C18" name="C18" type="passive"/>
+        <pin num="C19" name="C19" type="passive"/>
+        <pin num="C20" name="C20" type="passive"/>
+        <pin num="C21" name="C21" type="passive"/>
+        <pin num="C22" name="C22" type="passive"/>
+        <pin num="C23" name="C23" type="passive"/>
+        <pin num="C24" name="C24" type="passive"/>
+        <pin num="C25" name="C25" type="passive"/>
+        <pin num="C26" name="C26" type="passive"/>
+        <pin num="C27" name="C27" type="passive"/>
+        <pin num="C28" name="C28" type="passive"/>
+        <pin num="C29" name="C29" type="passive"/>
+        <pin num="C30" name="C30" type="passive"/>
+        <pin num="C31" name="C31" type="passive"/>
+        <pin num="C32" name="C32" type="passive"/>
+        <pin num="C33" name="C33" type="passive"/>
+        <pin num="C34" name="C34" type="passive"/>
+        <pin num="C35" name="C35" type="passive"/>
+        <pin num="C36" name="C36" type="passive"/>
+        <pin num="C37" name="C37" type="passive"/>
+        <pin num="C38" name="C38" type="passive"/>
+        <pin num="C39" name="C39" type="passive"/>
+        <pin num="C40" name="C40" type="passive"/>
+        <pin num="C41" name="C41" type="passive"/>
+        <pin num="C42" name="C42" type="passive"/>
+        <pin num="C43" name="C43" type="passive"/>
+        <pin num="C44" name="C44" type="passive"/>
+        <pin num="C45" name="C45" type="passive"/>
+        <pin num="C46" name="C46" type="passive"/>
+        <pin num="C47" name="C47" type="passive"/>
+        <pin num="C48" name="C48" type="passive"/>
+        <pin num="C49" name="C49" type="passive"/>
+        <pin num="C50" name="C50" type="passive"/>
+        <pin num="C51" name="C51" type="passive"/>
+        <pin num="C52" name="C52" type="passive"/>
+        <pin num="D1" name="D1" type="passive"/>
+        <pin num="D2" name="D2" type="passive"/>
+        <pin num="D3" name="D3" type="passive"/>
+        <pin num="D4" name="D4" type="passive"/>
+        <pin num="D5" name="D5" type="passive"/>
+        <pin num="D6" name="D6" type="passive"/>
+        <pin num="D7" name="D7" type="passive"/>
+        <pin num="D8" name="D8" type="passive"/>
+        <pin num="D9" name="D9" type="passive"/>
+        <pin num="D10" name="D10" type="passive"/>
+        <pin num="D11" name="D11" type="passive"/>
+        <pin num="D12" name="D12" type="passive"/>
+        <pin num="D13" name="D13" type="passive"/>
+        <pin num="D14" name="D14" type="passive"/>
+        <pin num="D15" name="D15" type="passive"/>
+        <pin num="D16" name="D16" type="passive"/>
+        <pin num="D17" name="D17" type="passive"/>
+        <pin num="D18" name="D18" type="passive"/>
+        <pin num="D19" name="D19" type="passive"/>
+        <pin num="D20" name="D20" type="passive"/>
+        <pin num="D21" name="D21" type="passive"/>
+        <pin num="D22" name="D22" type="passive"/>
+        <pin num="D23" name="D23" type="passive"/>
+        <pin num="D24" name="D24" type="passive"/>
+        <pin num="D25" name="D25" type="passive"/>
+        <pin num="D26" name="D26" type="passive"/>
+        <pin num="D27" name="D27" type="passive"/>
+        <pin num="D28" name="D28" type="passive"/>
+        <pin num="D29" name="D29" type="passive"/>
+        <pin num="D30" name="D30" type="passive"/>
+        <pin num="D31" name="D31" type="passive"/>
+        <pin num="D32" name="D32" type="passive"/>
+        <pin num="D33" name="D33" type="passive"/>
+        <pin num="D34" name="D34" type="passive"/>
+        <pin num="D35" name="D35" type="passive"/>
+        <pin num="D36" name="D36" type="passive"/>
+        <pin num="D37" name="D37" type="passive"/>
+        <pin num="D38" name="D38" type="passive"/>
+        <pin num="D39" name="D39" type="passive"/>
+        <pin num="D40" name="D40" type="passive"/>
+        <pin num="E1" name="E1" type="passive"/>
+        <pin num="E2" name="E2" type="passive"/>
+        <pin num="E3" name="E3" type="passive"/>
+        <pin num="E4" name="E4" type="passive"/>
+        <pin num="E5" name="E5" type="passive"/>
+        <pin num="E6" name="E6" type="passive"/>
+        <pin num="E7" name="E7" type="passive"/>
+        <pin num="E8" name="E8" type="passive"/>
+        <pin num="E9" name="E9" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+        <pin num="MH4" name="MH4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-can-0.1" part="Module-can-0.1">
+      <description>Hellen-One CAN Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-can-0.1</field>
+        <field name="Footprint">hellen-one-can-0.1:can</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="GND" type="passive"/>
+        <pin num="S1" name="CANL" type="passive"/>
+        <pin num="S2" name="CANH" type="passive"/>
+        <pin num="V1" name="V5" type="passive"/>
+        <pin num="V2" name="CAN_VIO" type="passive"/>
+        <pin num="V5" name="CAN_TX" type="passive"/>
+        <pin num="V6" name="CAN_RX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Cap">
+      <description>Capacitor</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Cap</field>
+        <field name="Footprint">hellen-one-common:C0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Fuse-Pad-Pad">
+      <description>12H1500D</description>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Jumper-Pad-Pad">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Jumper-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="LCSC">C17477</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="PROTO_AREA">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">PROTO_AREA</field>
+        <field name="Footprint">hellen-one-common:PROTO_AREA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Pad">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-TH</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Res">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Res</field>
+        <field name="Footprint">hellen-one-common:R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-wbo-0.3" part="Module-wbo-0.3">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-wbo-0.3</field>
+        <field name="Footprint">hellen-one-wbo-0.3:wbo</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="LSU_Un" type="passive"/>
+        <pin num="E2" name="LSU_Vm" type="passive"/>
+        <pin num="E3" name="LSU_Ip" type="passive"/>
+        <pin num="E4" name="LSU_Rtrim" type="passive"/>
+        <pin num="E5" name="LSU_H+" type="passive"/>
+        <pin num="E6" name="LSU_H-" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="J1" name="SEL1" type="passive"/>
+        <pin num="J2" name="SEL2" type="passive"/>
+        <pin num="J_GND1" name="PULL_DOWN1" type="passive"/>
+        <pin num="J_GND2" name="PULL_DOWN2" type="passive"/>
+        <pin num="J_VCC1" name="PULL_UP1" type="passive"/>
+        <pin num="J_VCC2" name="PULL_UP2" type="passive"/>
+        <pin num="W1" name="V5_IN" type="passive"/>
+        <pin num="W2" name="CAN_VIO" type="passive"/>
+        <pin num="W3" name="CAN_RX" type="passive"/>
+        <pin num="W4" name="CAN_TX" type="passive"/>
+        <pin num="W5" name="nReset" type="passive"/>
+        <pin num="W6" name="SWDIO" type="passive"/>
+        <pin num="W7" name="SWCLK" type="passive"/>
+        <pin num="W8" name="V33_OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="proteus" part="proteus">
+      <fields>
+        <field name="Reference">BRD</field>
+        <field name="Value">proteus</field>
+        <field name="Footprint">kicad6-libraries:proteus</field>
+      </fields>
+      <pins>
+        <pin num="A1(12)" name="HS2" type="passive"/>
+        <pin num="A2(11)" name="HS1" type="passive"/>
+        <pin num="A3(10)" name="LS1(INJ1)" type="passive"/>
+        <pin num="A4(9)" name="LS3(INJ3)" type="passive"/>
+        <pin num="A5(8)" name="LS5(INJ5)" type="passive"/>
+        <pin num="A6(7)" name="LS6(INJ6)" type="passive"/>
+        <pin num="A7(6)" name="LS7(INJ7)" type="passive"/>
+        <pin num="A8(5)" name="LS9(INJ9)" type="passive"/>
+        <pin num="A9(4)" name="LS11(INJ11)" type="passive"/>
+        <pin num="A10(3)" name="LS13(MAIN)" type="passive"/>
+        <pin num="A11(2)" name="LS14" type="passive"/>
+        <pin num="A12(1)" name="LS15(FAN)" type="passive"/>
+        <pin num="A13(23)" name="HS3" type="passive"/>
+        <pin num="A14(22)" name="HS4" type="passive"/>
+        <pin num="A15(21)" name="LS2(INJ2)" type="passive"/>
+        <pin num="A16(20)" name="LS4(INJ4)" type="passive"/>
+        <pin num="A17(19)" name="GND" type="passive"/>
+        <pin num="A18(18)" name="GND" type="passive"/>
+        <pin num="A19(17)" name="LS8(INJ8)" type="passive"/>
+        <pin num="A20(16)" name="LS10(INJ10)" type="passive"/>
+        <pin num="A21(15)" name="LS12(INJ12)" type="passive"/>
+        <pin num="A22(14)" name="IGN3" type="passive"/>
+        <pin num="A23(13)" name="LS16(FUEL)" type="passive"/>
+        <pin num="A24(35)" name="GND" type="passive"/>
+        <pin num="A25(34)" name="IGN12" type="passive"/>
+        <pin num="A26(33)" name="IGN11" type="passive"/>
+        <pin num="A27(32)" name="IGN10" type="passive"/>
+        <pin num="A28(31)" name="IGN9" type="passive"/>
+        <pin num="A29(30)" name="IGN8" type="passive"/>
+        <pin num="A30(29)" name="IGN7" type="passive"/>
+        <pin num="A31(28)" name="IGN6" type="passive"/>
+        <pin num="A32(27)" name="IGN5" type="passive"/>
+        <pin num="A33(26)" name="IGN4" type="passive"/>
+        <pin num="A34(25)" name="IGN2" type="passive"/>
+        <pin num="A35(24)" name="IGN1" type="passive"/>
+        <pin num="B1(8)" name="D2" type="passive"/>
+        <pin num="B2(7)" name="D3" type="passive"/>
+        <pin num="B3(6)" name="D4" type="passive"/>
+        <pin num="B4(5)" name="VR2+" type="passive"/>
+        <pin num="B5(4)" name="VR1+" type="passive"/>
+        <pin num="B6(3)" name="ETB1-" type="passive"/>
+        <pin num="B7(2)" name="ETB1+" type="passive"/>
+        <pin num="B8(1)" name="ETB2-" type="passive"/>
+        <pin num="B9(15)" name="D5" type="passive"/>
+        <pin num="B10(14)" name="D1" type="passive"/>
+        <pin num="B11(13)" name="D6" type="passive"/>
+        <pin num="B12(12)" name="VR2-" type="passive"/>
+        <pin num="B13(11)" name="VR1-" type="passive"/>
+        <pin num="B14(10)" name="GND" type="passive"/>
+        <pin num="B15(9)" name="ETB2+" type="passive"/>
+        <pin num="B16(23)" name="CAN-" type="passive"/>
+        <pin num="B17(22)" name="CAN+" type="passive"/>
+        <pin num="B18(21)" name="12V_IGN" type="passive"/>
+        <pin num="B19(20)" name="GND" type="passive"/>
+        <pin num="B20(19)" name="GND" type="passive"/>
+        <pin num="B21(18)" name="CAN2-" type="passive"/>
+        <pin num="B22(17)" name="CAN2+" type="passive"/>
+        <pin num="B23(16)" name="12V_MR" type="passive"/>
+        <pin num="C1(12)" name="GND_SENS" type="passive"/>
+        <pin num="C2(11)" name="GND_SENS" type="passive"/>
+        <pin num="C3(10)" name="GND_SENS" type="passive"/>
+        <pin num="C4(9)" name="GND_SENS" type="passive"/>
+        <pin num="C5(8)" name="GND_SENS" type="passive"/>
+        <pin num="C6(7)" name="GND_SENS" type="passive"/>
+        <pin num="C7(6)" name="GND_SENS" type="passive"/>
+        <pin num="C8(5)" name="GND_SENS" type="passive"/>
+        <pin num="C9(4)" name="5V_1" type="passive"/>
+        <pin num="C10(3)" name="5V_2" type="passive"/>
+        <pin num="C11(2)" name="12V_PROT" type="passive"/>
+        <pin num="C12(1)" name="12V_PROT" type="passive"/>
+        <pin num="C13(23)" name="AV1(MAP)" type="passive"/>
+        <pin num="C14(22)" name="AV3" type="passive"/>
+        <pin num="C15(21)" name="AV5" type="passive"/>
+        <pin num="C16(20)" name="AV7" type="passive"/>
+        <pin num="C17(19)" name="AV9" type="passive"/>
+        <pin num="C18(18)" name="AV11" type="passive"/>
+        <pin num="C19(17)" name="AT1" type="passive"/>
+        <pin num="C20(16)" name="AT3(CLT)" type="passive"/>
+        <pin num="C21(15)" name="5V_1" type="passive"/>
+        <pin num="C22(14)" name="5V_2" type="passive"/>
+        <pin num="C23(13)" name="GND_SENS" type="passive"/>
+        <pin num="C24(35)" name="AV2(TPS)" type="passive"/>
+        <pin num="C25(34)" name="AV4" type="passive"/>
+        <pin num="C26(33)" name="AV6" type="passive"/>
+        <pin num="C27(32)" name="AV8" type="passive"/>
+        <pin num="C28(31)" name="AV10" type="passive"/>
+        <pin num="C29(30)" name="GND_SENS" type="passive"/>
+        <pin num="C30(29)" name="AT2(IAT)" type="passive"/>
+        <pin num="C31(28)" name="AT4" type="passive"/>
+        <pin num="C32(27)" name="5V_1" type="passive"/>
+        <pin num="C33(26)" name="5V_2" type="passive"/>
+        <pin num="C34(25)" name="KNOCK1" type="passive"/>
+        <pin num="C35(24)" name="KNOCK2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="gerefi_logo" part="gerefi_LOGO">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">gerefi_LOGO</field>
+        <field name="Footprint">kicad6-libraries:gerefi_logo</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MPX-4_MAP">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/../kicad6-libraries/MPX-4_MAP.kicad_sym</uri>
+    </library>
+    <library logical="MPX_SOP_SSOP">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/../kicad6-libraries/MPX_SOP_SSOP.kicad_sym</uri>
+    </library>
+    <library logical="Power_Management">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\symbols\/Power_Management.kicad_sym</uri>
+    </library>
+    <library logical="TE_7-967288-1">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/../kicad6-libraries/TE_7-967288-1.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-can-0.1">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/hellen-one/modules/can/0.1/can.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-common">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-wbo-0.3">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/hellen-one/modules/wbo/0.3/wbo.kicad_sym</uri>
+    </library>
+    <library logical="proteus">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/../kicad6-libraries/proteus.kicad_sym</uri>
+    </library>
+    <library logical="gerefi_logo">
+      <uri>C:\Work\gerefi\github\proteus-M54-adapter/../kicad6-libraries/gerefi_logo.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5VA">
+      <node ref="BRD1" pin="C21(15)" pinfunction="5V_1" pintype="passive"/>
+      <node ref="BRD1" pin="C32(27)" pinfunction="5V_1" pintype="passive"/>
+      <node ref="BRD1" pin="C9(4)" pinfunction="5V_1" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="G6" pin="10" pintype="passive"/>
+      <node ref="G6" pin="6" pintype="passive"/>
+      <node ref="G6" pin="7" pintype="passive"/>
+      <node ref="G6" pin="8" pintype="passive"/>
+      <node ref="G6" pin="9" pintype="passive"/>
+      <node ref="J9" pin="C7" pinfunction="C7" pintype="passive"/>
+      <node ref="J9" pin="D14" pinfunction="D14" pintype="passive"/>
+      <node ref="J9" pin="D9" pinfunction="D9" pintype="passive"/>
+      <node ref="M2" pin="V1" pinfunction="V5" pintype="passive"/>
+      <node ref="M3" pin="W1" pinfunction="V5_IN" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="Vs" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="2" name="/12V_IGN">
+      <node ref="BRD1" pin="B18(21)" pinfunction="12V_IGN" pintype="passive"/>
+      <node ref="F2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/12V_MR">
+      <node ref="BRD1" pin="B23(16)" pinfunction="12V_MR" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="/12V_PROT">
+      <node ref="BRD1" pin="C11(2)" pinfunction="12V_PROT" pintype="passive"/>
+      <node ref="BRD1" pin="C12(1)" pinfunction="12V_PROT" pintype="passive"/>
+      <node ref="G6" pin="11" pintype="passive"/>
+      <node ref="G6" pin="12" pintype="passive"/>
+      <node ref="G6" pin="13" pintype="passive"/>
+      <node ref="G6" pin="14" pintype="passive"/>
+      <node ref="G6" pin="15" pintype="passive"/>
+    </net>
+    <net code="5" name="/CAN2_H">
+      <node ref="BRD1" pin="B22(17)" pinfunction="CAN2+" pintype="passive"/>
+      <node ref="J9" pin="D36" pinfunction="D36" pintype="passive"/>
+    </net>
+    <net code="6" name="/CAN2_L">
+      <node ref="BRD1" pin="B21(18)" pinfunction="CAN2-" pintype="passive"/>
+      <node ref="J9" pin="D37" pinfunction="D37" pintype="passive"/>
+    </net>
+    <net code="7" name="/CAN_H">
+      <node ref="BRD1" pin="B17(22)" pinfunction="CAN+" pintype="passive"/>
+      <node ref="J9" pin="B4" pinfunction="B4" pintype="passive"/>
+      <node ref="M2" pin="S2" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="8" name="/CAN_L">
+      <node ref="BRD1" pin="B16(23)" pinfunction="CAN-" pintype="passive"/>
+      <node ref="J9" pin="B3" pinfunction="B3" pintype="passive"/>
+      <node ref="M2" pin="S1" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="9" name="/GATE_IGN1">
+      <node ref="BRD1" pin="A35(24)" pinfunction="IGN1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/GATE_IGN2">
+      <node ref="BRD1" pin="A34(25)" pinfunction="IGN2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/GATE_IGN3">
+      <node ref="BRD1" pin="A22(14)" pinfunction="IGN3" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/GATE_IGN4">
+      <node ref="BRD1" pin="A33(26)" pinfunction="IGN4" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/GATE_IGN5">
+      <node ref="BRD1" pin="A32(27)" pinfunction="IGN5" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/GATE_IGN6">
+      <node ref="BRD1" pin="A31(28)" pinfunction="IGN6" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/HV1">
+      <node ref="F3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E3" pinfunction="E3" pintype="passive"/>
+    </net>
+    <net code="16" name="/HV2">
+      <node ref="F4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E2" pinfunction="E2" pintype="passive"/>
+    </net>
+    <net code="17" name="/HV3">
+      <node ref="F5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E1" pinfunction="E1" pintype="passive"/>
+    </net>
+    <net code="18" name="/HV4">
+      <node ref="F6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E9" pinfunction="E9" pintype="passive"/>
+    </net>
+    <net code="19" name="/HV5">
+      <node ref="F7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E7" pinfunction="E7" pintype="passive"/>
+    </net>
+    <net code="20" name="/HV6">
+      <node ref="F8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="E6" pinfunction="E6" pintype="passive"/>
+    </net>
+    <net code="21" name="/IN_BARO">
+      <node ref="BRD1" pin="C26(33)" pinfunction="AV6" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="Vout" pintype="passive"/>
+    </net>
+    <net code="22" name="/IN_BRAKE">
+      <node ref="BRD1" pin="B3(6)" pinfunction="D4" pintype="passive"/>
+      <node ref="J9" pin="D24" pinfunction="D24" pintype="passive"/>
+    </net>
+    <net code="23" name="/IN_BRAKE2">
+      <node ref="BRD1" pin="B9(15)" pinfunction="D5" pintype="passive"/>
+      <node ref="J9" pin="D28" pinfunction="D28" pintype="passive"/>
+    </net>
+    <net code="24" name="/IN_CAM1">
+      <node ref="BRD1" pin="B10(14)" pinfunction="D1" pintype="passive"/>
+      <node ref="J9" pin="C5" pinfunction="C5" pintype="passive"/>
+    </net>
+    <net code="25" name="/IN_CAM2">
+      <node ref="BRD1" pin="B1(8)" pinfunction="D2" pintype="passive"/>
+      <node ref="J9" pin="C2" pinfunction="C2" pintype="passive"/>
+    </net>
+    <net code="26" name="/IN_CLT">
+      <node ref="BRD1" pin="C20(16)" pinfunction="AT3(CLT)" pintype="passive"/>
+      <node ref="J9" pin="C24" pinfunction="C24" pintype="passive"/>
+    </net>
+    <net code="27" name="/IN_CLUTCH">
+      <node ref="BRD1" pin="B11(13)" pinfunction="D6" pintype="passive"/>
+      <node ref="J9" pin="D23" pinfunction="D23" pintype="passive"/>
+    </net>
+    <net code="28" name="/IN_CRANK">
+      <node ref="BRD1" pin="B2(7)" pinfunction="D3" pintype="passive"/>
+      <node ref="J9" pin="C8" pinfunction="C8" pintype="passive"/>
+    </net>
+    <net code="29" name="/IN_IAT">
+      <node ref="BRD1" pin="C30(29)" pinfunction="AT2(IAT)" pintype="passive"/>
+      <node ref="J9" pin="C22" pinfunction="C22" pintype="passive"/>
+    </net>
+    <net code="30" name="/IN_KNOCK1">
+      <node ref="BRD1" pin="C34(25)" pinfunction="KNOCK1" pintype="passive"/>
+      <node ref="J9" pin="C29" pinfunction="C29" pintype="passive"/>
+    </net>
+    <net code="31" name="/IN_KNOCK2">
+      <node ref="BRD1" pin="C35(24)" pinfunction="KNOCK2" pintype="passive"/>
+      <node ref="J9" pin="C31" pinfunction="C31" pintype="passive"/>
+    </net>
+    <net code="32" name="/IN_MAF">
+      <node ref="BRD1" pin="C16(20)" pinfunction="AV7" pintype="passive"/>
+      <node ref="J9" pin="C1" pinfunction="C1" pintype="passive"/>
+    </net>
+    <net code="33" name="/IN_MAP">
+      <node ref="BRD1" pin="C13(23)" pinfunction="AV1(MAP)" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VOUT" pintype="passive"/>
+    </net>
+    <net code="34" name="/IN_OILT">
+      <node ref="BRD1" pin="C19(17)" pinfunction="AT1" pintype="passive"/>
+      <node ref="J9" pin="C27" pinfunction="C27" pintype="passive"/>
+    </net>
+    <net code="35" name="/IN_PPS1">
+      <node ref="BRD1" pin="C25(34)" pinfunction="AV4" pintype="passive"/>
+      <node ref="J9" pin="D8" pinfunction="D8" pintype="passive"/>
+    </net>
+    <net code="36" name="/IN_PPS2">
+      <node ref="BRD1" pin="C15(21)" pinfunction="AV5" pintype="passive"/>
+      <node ref="J9" pin="D13" pinfunction="D13" pintype="passive"/>
+    </net>
+    <net code="37" name="/IN_TPS1">
+      <node ref="BRD1" pin="C24(35)" pinfunction="AV2(TPS)" pintype="passive"/>
+      <node ref="J9" pin="C19" pinfunction="C19" pintype="passive"/>
+    </net>
+    <net code="38" name="/IN_TPS2">
+      <node ref="BRD1" pin="C14(22)" pinfunction="AV3" pintype="passive"/>
+      <node ref="J9" pin="C10" pinfunction="C10" pintype="passive"/>
+    </net>
+    <net code="39" name="/OUT_ETB1">
+      <node ref="BRD1" pin="B7(2)" pinfunction="ETB1+" pintype="passive"/>
+      <node ref="J9" pin="C43" pinfunction="C43" pintype="passive"/>
+    </net>
+    <net code="40" name="/OUT_ETB2">
+      <node ref="BRD1" pin="B6(3)" pinfunction="ETB1-" pintype="passive"/>
+      <node ref="J9" pin="C44" pinfunction="C44" pintype="passive"/>
+    </net>
+    <net code="41" name="/OUT_FUEL_PUMP_RELAY">
+      <node ref="BRD1" pin="A8(5)" pinfunction="LS9(INJ9)" pintype="passive"/>
+      <node ref="J9" pin="D10" pinfunction="D10" pintype="passive"/>
+    </net>
+    <net code="42" name="/OUT_IDLE_CLOSE">
+      <node ref="BRD1" pin="A12(1)" pinfunction="LS15(FAN)" pintype="passive"/>
+      <node ref="J9" pin="C46" pinfunction="C46" pintype="passive"/>
+    </net>
+    <net code="43" name="/OUT_IDLE_OPEN">
+      <node ref="BRD1" pin="A23(13)" pinfunction="LS16(FUEL)" pintype="passive"/>
+      <node ref="J9" pin="C47" pinfunction="C47" pintype="passive"/>
+    </net>
+    <net code="44" name="/OUT_IGN1">
+      <node ref="F3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="/OUT_IGN2">
+      <node ref="F4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="/OUT_IGN3">
+      <node ref="F5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="/OUT_IGN4">
+      <node ref="F6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="48" name="/OUT_IGN5">
+      <node ref="F7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="/OUT_IGN6">
+      <node ref="F8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="/OUT_INJ1">
+      <node ref="BRD1" pin="A3(10)" pinfunction="LS1(INJ1)" pintype="passive"/>
+      <node ref="J9" pin="C33" pinfunction="C33" pintype="passive"/>
+    </net>
+    <net code="51" name="/OUT_INJ2">
+      <node ref="BRD1" pin="A15(21)" pinfunction="LS2(INJ2)" pintype="passive"/>
+      <node ref="J9" pin="C34" pinfunction="C34" pintype="passive"/>
+    </net>
+    <net code="52" name="/OUT_INJ3">
+      <node ref="BRD1" pin="A4(9)" pinfunction="LS3(INJ3)" pintype="passive"/>
+      <node ref="J9" pin="C35" pinfunction="C35" pintype="passive"/>
+    </net>
+    <net code="53" name="/OUT_INJ4">
+      <node ref="BRD1" pin="A16(20)" pinfunction="LS4(INJ4)" pintype="passive"/>
+      <node ref="J9" pin="C36" pinfunction="C36" pintype="passive"/>
+    </net>
+    <net code="54" name="/OUT_INJ5">
+      <node ref="BRD1" pin="A5(8)" pinfunction="LS5(INJ5)" pintype="passive"/>
+      <node ref="J9" pin="C37" pinfunction="C37" pintype="passive"/>
+    </net>
+    <net code="55" name="/OUT_INJ6">
+      <node ref="BRD1" pin="A6(7)" pinfunction="LS6(INJ6)" pintype="passive"/>
+      <node ref="J9" pin="C38" pinfunction="C38" pintype="passive"/>
+    </net>
+    <net code="56" name="/OUT_INJ_RELAY">
+      <node ref="BRD1" pin="A7(6)" pinfunction="LS7(INJ7)" pintype="passive"/>
+      <node ref="J9" pin="A1" pinfunction="A1" pintype="passive"/>
+    </net>
+    <net code="57" name="/OUT_INTAKE_VALVE">
+      <node ref="BRD1" pin="A10(3)" pinfunction="LS13(MAIN)" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="C49" pinfunction="C49" pintype="passive"/>
+    </net>
+    <net code="58" name="/OUT_MAIN_RELAY">
+      <node ref="BRD1" pin="A19(17)" pinfunction="LS8(INJ8)" pintype="passive"/>
+      <node ref="J9" pin="B23" pinfunction="B23" pintype="passive"/>
+    </net>
+    <net code="59" name="/OUT_MAP_THERMOSTAT">
+      <node ref="BRD1" pin="A21(15)" pinfunction="LS12(INJ12)" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="C45" pinfunction="C45" pintype="passive"/>
+    </net>
+    <net code="60" name="/OUT_SEC_AIR_PUMP_RELAY">
+      <node ref="J9" pin="D3" pinfunction="D3" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="61" name="/OUT_SEC_AIR_PUMP_VALVE">
+      <node ref="BRD1" pin="A11(2)" pinfunction="LS14" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="C52" pinfunction="C52" pintype="passive"/>
+    </net>
+    <net code="62" name="/OUT_VANOS_EXHAUST">
+      <node ref="BRD1" pin="A9(4)" pinfunction="LS11(INJ11)" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="C41" pinfunction="C41" pintype="passive"/>
+    </net>
+    <net code="63" name="/OUT_VANOS_INTAKE">
+      <node ref="BRD1" pin="A20(16)" pinfunction="LS10(INJ10)" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="C40" pinfunction="C40" pintype="passive"/>
+    </net>
+    <net code="64" name="/SEC_AIR_PUMP_RELAY">
+      <node ref="BRD1" pin="A25(34)" pinfunction="IGN12" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="IN" pintype="input"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="/WBO_H-">
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="M3" pin="E5" pinfunction="LSU_H+" pintype="passive"/>
+    </net>
+    <net code="66" name="/WBO_Ip">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M3" pin="E3" pinfunction="LSU_Ip" pintype="passive"/>
+    </net>
+    <net code="67" name="/WBO_R_Trim">
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M3" pin="E4" pinfunction="LSU_Rtrim" pintype="passive"/>
+    </net>
+    <net code="68" name="/WBO_Vs">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M3" pin="E1" pinfunction="LSU_Un" pintype="passive"/>
+    </net>
+    <net code="69" name="/WBO_Vs{slash}Ip">
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M3" pin="E2" pinfunction="LSU_Vm" pintype="passive"/>
+    </net>
+    <net code="70" name="GND">
+      <node ref="BRD1" pin="A17(19)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="A18(18)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="A24(35)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="B14(10)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="B19(20)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="B20(19)" pinfunction="GND" pintype="passive"/>
+      <node ref="BRD1" pin="C1(12)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C2(11)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C23(13)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C29(30)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C3(10)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C4(9)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C5(8)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C6(7)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C7(6)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="BRD1" pin="C8(5)" pinfunction="GND_SENS" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="G6" pin="1" pintype="passive"/>
+      <node ref="G6" pin="2" pintype="passive"/>
+      <node ref="G6" pin="3" pintype="passive"/>
+      <node ref="G6" pin="4" pintype="passive"/>
+      <node ref="G6" pin="5" pintype="passive"/>
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="A4" pinfunction="A4" pintype="passive"/>
+      <node ref="J9" pin="A5" pinfunction="A5" pintype="passive"/>
+      <node ref="J9" pin="A6" pinfunction="A6" pintype="passive"/>
+      <node ref="J9" pin="B20" pinfunction="B20" pintype="passive"/>
+      <node ref="J9" pin="B21" pinfunction="B21" pintype="passive"/>
+      <node ref="J9" pin="B22" pinfunction="B22" pintype="passive"/>
+      <node ref="J9" pin="B24" pinfunction="B24" pintype="passive"/>
+      <node ref="J9" pin="C15" pinfunction="C15" pintype="passive"/>
+      <node ref="J9" pin="C17" pinfunction="C17" pintype="passive"/>
+      <node ref="J9" pin="C18" pinfunction="C18" pintype="passive"/>
+      <node ref="J9" pin="C20" pinfunction="C20" pintype="passive"/>
+      <node ref="J9" pin="C21" pinfunction="C21" pintype="passive"/>
+      <node ref="J9" pin="C23" pinfunction="C23" pintype="passive"/>
+      <node ref="J9" pin="C25" pinfunction="C25" pintype="passive"/>
+      <node ref="J9" pin="C28" pinfunction="C28" pintype="passive"/>
+      <node ref="J9" pin="C30" pinfunction="C30" pintype="passive"/>
+      <node ref="J9" pin="C32" pinfunction="C32" pintype="passive"/>
+      <node ref="J9" pin="C48" pinfunction="C48" pintype="passive"/>
+      <node ref="J9" pin="D12" pinfunction="D12" pintype="passive"/>
+      <node ref="J9" pin="D7" pinfunction="D7" pintype="passive"/>
+      <node ref="J9" pin="E5" pinfunction="E5" pintype="passive"/>
+      <node ref="M2" pin="E1" pinfunction="GND" pintype="passive"/>
+      <node ref="M3" pin="E6" pinfunction="LSU_H-" pintype="passive"/>
+      <node ref="M3" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="S" pintype="power_in"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(BRD1-PadA1(12))">
+      <node ref="BRD1" pin="A1(12)" pinfunction="HS2" pintype="passive"/>
+      <node ref="P65" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(BRD1-PadA2(11))">
+      <node ref="BRD1" pin="A2(11)" pinfunction="HS1" pintype="passive"/>
+      <node ref="P64" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(BRD1-PadA13(23))">
+      <node ref="BRD1" pin="A13(23)" pinfunction="HS3" pintype="passive"/>
+      <node ref="P66" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(BRD1-PadA14(22))">
+      <node ref="BRD1" pin="A14(22)" pinfunction="HS4" pintype="passive"/>
+      <node ref="P67" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(BRD1-PadA26(33))">
+      <node ref="BRD1" pin="A26(33)" pinfunction="IGN11" pintype="passive"/>
+      <node ref="P71" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(BRD1-PadA27(32))">
+      <node ref="BRD1" pin="A27(32)" pinfunction="IGN10" pintype="passive"/>
+      <node ref="P63" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(BRD1-PadA28(31))">
+      <node ref="BRD1" pin="A28(31)" pinfunction="IGN9" pintype="passive"/>
+      <node ref="P70" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(BRD1-PadA29(30))">
+      <node ref="BRD1" pin="A29(30)" pinfunction="IGN8" pintype="passive"/>
+      <node ref="P69" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(BRD1-PadA30(29))">
+      <node ref="BRD1" pin="A30(29)" pinfunction="IGN7" pintype="passive"/>
+      <node ref="P68" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(BRD1-PadB4(5))">
+      <node ref="BRD1" pin="B4(5)" pinfunction="VR2+" pintype="passive"/>
+      <node ref="P74" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(BRD1-PadB5(4))">
+      <node ref="BRD1" pin="B5(4)" pinfunction="VR1+" pintype="passive"/>
+      <node ref="P72" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(BRD1-PadB8(1))">
+      <node ref="BRD1" pin="B8(1)" pinfunction="ETB2-" pintype="passive"/>
+      <node ref="P77" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(BRD1-PadB12(12))">
+      <node ref="BRD1" pin="B12(12)" pinfunction="VR2-" pintype="passive"/>
+      <node ref="P75" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(BRD1-PadB13(11))">
+      <node ref="BRD1" pin="B13(11)" pinfunction="VR1-" pintype="passive"/>
+      <node ref="P73" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(BRD1-PadB15(9))">
+      <node ref="BRD1" pin="B15(9)" pinfunction="ETB2+" pintype="passive"/>
+      <node ref="P76" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(BRD1-PadC10(3))">
+      <node ref="BRD1" pin="C10(3)" pinfunction="5V_2" pintype="passive"/>
+      <node ref="BRD1" pin="C22(14)" pinfunction="5V_2" pintype="passive"/>
+      <node ref="BRD1" pin="C33(26)" pinfunction="5V_2" pintype="passive"/>
+      <node ref="P83" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(BRD1-PadC17(19))">
+      <node ref="BRD1" pin="C17(19)" pinfunction="AV9" pintype="passive"/>
+      <node ref="P79" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(BRD1-PadC18(18))">
+      <node ref="BRD1" pin="C18(18)" pinfunction="AV11" pintype="passive"/>
+      <node ref="P81" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(BRD1-PadC27(32))">
+      <node ref="BRD1" pin="C27(32)" pinfunction="AV8" pintype="passive"/>
+      <node ref="P78" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(BRD1-PadC28(31))">
+      <node ref="BRD1" pin="C28(31)" pinfunction="AV10" pintype="passive"/>
+      <node ref="P80" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(BRD1-PadC31(28))">
+      <node ref="BRD1" pin="C31(28)" pinfunction="AT4" pintype="passive"/>
+      <node ref="P82" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="A8" pinfunction="A8" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(F2-Pad1)">
+      <node ref="F2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="D26" pinfunction="D26" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(G2-Pad1)">
+      <node ref="G2" pin="1" pintype="passive"/>
+      <node ref="G2" pin="11" pintype="passive"/>
+      <node ref="G2" pin="6" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(G2-Pad10)">
+      <node ref="G2" pin="10" pintype="passive"/>
+      <node ref="G2" pin="15" pintype="passive"/>
+      <node ref="G2" pin="5" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(G2-Pad12)">
+      <node ref="G2" pin="12" pintype="passive"/>
+      <node ref="G2" pin="2" pintype="passive"/>
+      <node ref="G2" pin="7" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(G2-Pad13)">
+      <node ref="G2" pin="13" pintype="passive"/>
+      <node ref="G2" pin="3" pintype="passive"/>
+      <node ref="G2" pin="8" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(G2-Pad14)">
+      <node ref="G2" pin="14" pintype="passive"/>
+      <node ref="G2" pin="4" pintype="passive"/>
+      <node ref="G2" pin="9" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(G3-Pad1)">
+      <node ref="G3" pin="1" pintype="passive"/>
+      <node ref="G3" pin="11" pintype="passive"/>
+      <node ref="G3" pin="6" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(G3-Pad10)">
+      <node ref="G3" pin="10" pintype="passive"/>
+      <node ref="G3" pin="15" pintype="passive"/>
+      <node ref="G3" pin="5" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(G3-Pad12)">
+      <node ref="G3" pin="12" pintype="passive"/>
+      <node ref="G3" pin="2" pintype="passive"/>
+      <node ref="G3" pin="7" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(G3-Pad13)">
+      <node ref="G3" pin="13" pintype="passive"/>
+      <node ref="G3" pin="3" pintype="passive"/>
+      <node ref="G3" pin="8" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(G3-Pad14)">
+      <node ref="G3" pin="14" pintype="passive"/>
+      <node ref="G3" pin="4" pintype="passive"/>
+      <node ref="G3" pin="9" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(G4-Pad1)">
+      <node ref="G4" pin="1" pintype="passive"/>
+      <node ref="G4" pin="11" pintype="passive"/>
+      <node ref="G4" pin="6" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(G4-Pad10)">
+      <node ref="G4" pin="10" pintype="passive"/>
+      <node ref="G4" pin="15" pintype="passive"/>
+      <node ref="G4" pin="5" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(G4-Pad12)">
+      <node ref="G4" pin="12" pintype="passive"/>
+      <node ref="G4" pin="2" pintype="passive"/>
+      <node ref="G4" pin="7" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(G4-Pad13)">
+      <node ref="G4" pin="13" pintype="passive"/>
+      <node ref="G4" pin="3" pintype="passive"/>
+      <node ref="G4" pin="8" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(G4-Pad14)">
+      <node ref="G4" pin="14" pintype="passive"/>
+      <node ref="G4" pin="4" pintype="passive"/>
+      <node ref="G4" pin="9" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(G5-Pad1)">
+      <node ref="G5" pin="1" pintype="passive"/>
+      <node ref="G5" pin="11" pintype="passive"/>
+      <node ref="G5" pin="6" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(G5-Pad10)">
+      <node ref="G5" pin="10" pintype="passive"/>
+      <node ref="G5" pin="15" pintype="passive"/>
+      <node ref="G5" pin="5" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(G5-Pad12)">
+      <node ref="G5" pin="12" pintype="passive"/>
+      <node ref="G5" pin="2" pintype="passive"/>
+      <node ref="G5" pin="7" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(G5-Pad13)">
+      <node ref="G5" pin="13" pintype="passive"/>
+      <node ref="G5" pin="3" pintype="passive"/>
+      <node ref="G5" pin="8" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(G5-Pad14)">
+      <node ref="G5" pin="14" pintype="passive"/>
+      <node ref="G5" pin="4" pintype="passive"/>
+      <node ref="G5" pin="9" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(G7-Pad1)">
+      <node ref="G7" pin="1" pintype="passive"/>
+      <node ref="G7" pin="11" pintype="passive"/>
+      <node ref="G7" pin="6" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(G7-Pad10)">
+      <node ref="G7" pin="10" pintype="passive"/>
+      <node ref="G7" pin="15" pintype="passive"/>
+      <node ref="G7" pin="5" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(G7-Pad12)">
+      <node ref="G7" pin="12" pintype="passive"/>
+      <node ref="G7" pin="2" pintype="passive"/>
+      <node ref="G7" pin="7" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(G7-Pad13)">
+      <node ref="G7" pin="13" pintype="passive"/>
+      <node ref="G7" pin="3" pintype="passive"/>
+      <node ref="G7" pin="8" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(G7-Pad14)">
+      <node ref="G7" pin="14" pintype="passive"/>
+      <node ref="G7" pin="4" pintype="passive"/>
+      <node ref="G7" pin="9" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(G8-Pad1)">
+      <node ref="G8" pin="1" pintype="passive"/>
+      <node ref="G8" pin="11" pintype="passive"/>
+      <node ref="G8" pin="6" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(G8-Pad10)">
+      <node ref="G8" pin="10" pintype="passive"/>
+      <node ref="G8" pin="15" pintype="passive"/>
+      <node ref="G8" pin="5" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(G8-Pad12)">
+      <node ref="G8" pin="12" pintype="passive"/>
+      <node ref="G8" pin="2" pintype="passive"/>
+      <node ref="G8" pin="7" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(G8-Pad13)">
+      <node ref="G8" pin="13" pintype="passive"/>
+      <node ref="G8" pin="3" pintype="passive"/>
+      <node ref="G8" pin="8" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(G8-Pad14)">
+      <node ref="G8" pin="14" pintype="passive"/>
+      <node ref="G8" pin="4" pintype="passive"/>
+      <node ref="G8" pin="9" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M3" pin="W8" pinfunction="V33_OUT" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M3" pin="W7" pinfunction="SWCLK" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(J3-Pad4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M3" pin="W6" pinfunction="SWDIO" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(J3-Pad5)">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M3" pin="W5" pinfunction="nReset" pintype="passive"/>
+    </net>
+    <net code="128" name="Net-(J9-PadA2)">
+      <node ref="J9" pin="A2" pinfunction="A2" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(J9-PadA3)">
+      <node ref="J9" pin="A3" pinfunction="A3" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(J9-PadA7)">
+      <node ref="J9" pin="A7" pinfunction="A7" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(J9-PadA9)">
+      <node ref="J9" pin="A9" pinfunction="A9" pintype="passive"/>
+      <node ref="P4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(J9-PadB1)">
+      <node ref="J9" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="P5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(J9-PadB2)">
+      <node ref="J9" pin="B2" pinfunction="B2" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(J9-PadB5)">
+      <node ref="J9" pin="B5" pinfunction="B5" pintype="passive"/>
+      <node ref="P7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="135" name="Net-(J9-PadB6)">
+      <node ref="J9" pin="B6" pinfunction="B6" pintype="passive"/>
+      <node ref="P8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(J9-PadB7)">
+      <node ref="J9" pin="B7" pinfunction="B7" pintype="passive"/>
+      <node ref="P9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(J9-PadB8)">
+      <node ref="J9" pin="B8" pinfunction="B8" pintype="passive"/>
+      <node ref="P10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(J9-PadB9)">
+      <node ref="J9" pin="B9" pinfunction="B9" pintype="passive"/>
+      <node ref="P11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(J9-PadB10)">
+      <node ref="J9" pin="B10" pinfunction="B10" pintype="passive"/>
+      <node ref="P12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(J9-PadB11)">
+      <node ref="J9" pin="B11" pinfunction="B11" pintype="passive"/>
+      <node ref="P13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(J9-PadB12)">
+      <node ref="J9" pin="B12" pinfunction="B12" pintype="passive"/>
+      <node ref="P14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="142" name="Net-(J9-PadB13)">
+      <node ref="J9" pin="B13" pinfunction="B13" pintype="passive"/>
+      <node ref="P15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(J9-PadB14)">
+      <node ref="J9" pin="B14" pinfunction="B14" pintype="passive"/>
+      <node ref="P16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="144" name="Net-(J9-PadB15)">
+      <node ref="J9" pin="B15" pinfunction="B15" pintype="passive"/>
+      <node ref="P17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="145" name="Net-(J9-PadB16)">
+      <node ref="J9" pin="B16" pinfunction="B16" pintype="passive"/>
+      <node ref="P18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="146" name="Net-(J9-PadB17)">
+      <node ref="J9" pin="B17" pinfunction="B17" pintype="passive"/>
+      <node ref="P19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="147" name="Net-(J9-PadB18)">
+      <node ref="J9" pin="B18" pinfunction="B18" pintype="passive"/>
+      <node ref="P20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="148" name="Net-(J9-PadB19)">
+      <node ref="J9" pin="B19" pinfunction="B19" pintype="passive"/>
+      <node ref="P21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="149" name="Net-(J9-PadC3)">
+      <node ref="J9" pin="C3" pinfunction="C3" pintype="passive"/>
+      <node ref="P22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="150" name="Net-(J9-PadC4)">
+      <node ref="J9" pin="C4" pinfunction="C4" pintype="passive"/>
+      <node ref="P23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="151" name="Net-(J9-PadC6)">
+      <node ref="J9" pin="C6" pinfunction="C6" pintype="passive"/>
+      <node ref="P24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="152" name="Net-(J9-PadC9)">
+      <node ref="J9" pin="C9" pinfunction="C9" pintype="passive"/>
+      <node ref="P25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="153" name="Net-(J9-PadC11)">
+      <node ref="J9" pin="C11" pinfunction="C11" pintype="passive"/>
+      <node ref="P26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="154" name="Net-(J9-PadC12)">
+      <node ref="J9" pin="C12" pinfunction="C12" pintype="passive"/>
+      <node ref="P27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="155" name="Net-(J9-PadC13)">
+      <node ref="J9" pin="C13" pinfunction="C13" pintype="passive"/>
+      <node ref="P28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="156" name="Net-(J9-PadC14)">
+      <node ref="J9" pin="C14" pinfunction="C14" pintype="passive"/>
+      <node ref="P29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="157" name="Net-(J9-PadC16)">
+      <node ref="J9" pin="C16" pinfunction="C16" pintype="passive"/>
+      <node ref="P30" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="158" name="Net-(J9-PadC26)">
+      <node ref="J9" pin="C26" pinfunction="C26" pintype="passive"/>
+      <node ref="P31" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="159" name="Net-(J9-PadC39)">
+      <node ref="J9" pin="C39" pinfunction="C39" pintype="passive"/>
+      <node ref="P32" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="160" name="Net-(J9-PadC42)">
+      <node ref="J9" pin="C42" pinfunction="C42" pintype="passive"/>
+      <node ref="P33" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="161" name="Net-(J9-PadC50)">
+      <node ref="J9" pin="C50" pinfunction="C50" pintype="passive"/>
+      <node ref="P34" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="162" name="Net-(J9-PadC51)">
+      <node ref="J9" pin="C51" pinfunction="C51" pintype="passive"/>
+      <node ref="P35" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="163" name="Net-(J9-PadD1)">
+      <node ref="J9" pin="D1" pinfunction="D1" pintype="passive"/>
+      <node ref="P36" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="164" name="Net-(J9-PadD2)">
+      <node ref="J9" pin="D2" pinfunction="D2" pintype="passive"/>
+      <node ref="P37" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="165" name="Net-(J9-PadD4)">
+      <node ref="J9" pin="D4" pinfunction="D4" pintype="passive"/>
+      <node ref="P38" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="166" name="Net-(J9-PadD5)">
+      <node ref="J9" pin="D5" pinfunction="D5" pintype="passive"/>
+      <node ref="P39" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="167" name="Net-(J9-PadD6)">
+      <node ref="J9" pin="D6" pinfunction="D6" pintype="passive"/>
+      <node ref="P40" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="168" name="Net-(J9-PadD11)">
+      <node ref="J9" pin="D11" pinfunction="D11" pintype="passive"/>
+      <node ref="P41" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="169" name="Net-(J9-PadD15)">
+      <node ref="J9" pin="D15" pinfunction="D15" pintype="passive"/>
+      <node ref="P42" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="170" name="Net-(J9-PadD16)">
+      <node ref="J9" pin="D16" pinfunction="D16" pintype="passive"/>
+      <node ref="P43" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="171" name="Net-(J9-PadD17)">
+      <node ref="J9" pin="D17" pinfunction="D17" pintype="passive"/>
+      <node ref="P44" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="172" name="Net-(J9-PadD18)">
+      <node ref="J9" pin="D18" pinfunction="D18" pintype="passive"/>
+      <node ref="P45" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="173" name="Net-(J9-PadD19)">
+      <node ref="J9" pin="D19" pinfunction="D19" pintype="passive"/>
+      <node ref="P46" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="174" name="Net-(J9-PadD20)">
+      <node ref="J9" pin="D20" pinfunction="D20" pintype="passive"/>
+      <node ref="P47" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="175" name="Net-(J9-PadD21)">
+      <node ref="J9" pin="D21" pinfunction="D21" pintype="passive"/>
+      <node ref="P48" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="176" name="Net-(J9-PadD22)">
+      <node ref="J9" pin="D22" pinfunction="D22" pintype="passive"/>
+      <node ref="P49" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="177" name="Net-(J9-PadD25)">
+      <node ref="J9" pin="D25" pinfunction="D25" pintype="passive"/>
+      <node ref="P50" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="178" name="Net-(J9-PadD27)">
+      <node ref="J9" pin="D27" pinfunction="D27" pintype="passive"/>
+      <node ref="P51" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="179" name="Net-(J9-PadD29)">
+      <node ref="J9" pin="D29" pinfunction="D29" pintype="passive"/>
+      <node ref="P52" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="180" name="Net-(J9-PadD30)">
+      <node ref="J9" pin="D30" pinfunction="D30" pintype="passive"/>
+      <node ref="P53" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="181" name="Net-(J9-PadD31)">
+      <node ref="J9" pin="D31" pinfunction="D31" pintype="passive"/>
+      <node ref="P54" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="182" name="Net-(J9-PadD32)">
+      <node ref="J9" pin="D32" pinfunction="D32" pintype="passive"/>
+      <node ref="P55" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="183" name="Net-(J9-PadD33)">
+      <node ref="J9" pin="D33" pinfunction="D33" pintype="passive"/>
+      <node ref="P56" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="184" name="Net-(J9-PadD34)">
+      <node ref="J9" pin="D34" pinfunction="D34" pintype="passive"/>
+      <node ref="P57" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="185" name="Net-(J9-PadD35)">
+      <node ref="J9" pin="D35" pinfunction="D35" pintype="passive"/>
+      <node ref="P58" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="186" name="Net-(J9-PadD38)">
+      <node ref="J9" pin="D38" pinfunction="D38" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="187" name="Net-(J9-PadD39)">
+      <node ref="J9" pin="D39" pinfunction="D39" pintype="passive"/>
+      <node ref="P59" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="188" name="Net-(J9-PadD40)">
+      <node ref="J9" pin="D40" pinfunction="D40" pintype="passive"/>
+      <node ref="P60" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="189" name="Net-(J9-PadE4)">
+      <node ref="J9" pin="E4" pinfunction="E4" pintype="passive"/>
+      <node ref="P62" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="190" name="Net-(J9-PadE8)">
+      <node ref="J9" pin="E8" pinfunction="E8" pintype="passive"/>
+      <node ref="P61" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="191" name="Net-(M2-PadV2)">
+      <node ref="M2" pin="V2" pinfunction="CAN_VIO" pintype="passive"/>
+      <node ref="M3" pin="W2" pinfunction="CAN_VIO" pintype="passive"/>
+    </net>
+    <net code="192" name="Net-(M2-PadV5)">
+      <node ref="M2" pin="V5" pinfunction="CAN_TX" pintype="passive"/>
+      <node ref="M3" pin="W4" pinfunction="CAN_TX" pintype="passive"/>
+    </net>
+    <net code="193" name="Net-(M2-PadV6)">
+      <node ref="M2" pin="V6" pinfunction="CAN_RX" pintype="passive"/>
+      <node ref="M3" pin="W3" pinfunction="CAN_RX" pintype="passive"/>
+    </net>
+    <net code="194" name="Net-(M3-PadJ1)">
+      <node ref="M3" pin="J1" pinfunction="SEL1" pintype="passive"/>
+      <node ref="M3" pin="J_GND1" pinfunction="PULL_DOWN1" pintype="passive"/>
+    </net>
+    <net code="195" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="196" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="197" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="198" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="199" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="200" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="201" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="202" name="unconnected-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="203" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="204" name="unconnected-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="205" name="unconnected-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="206" name="unconnected-(J9-PadMH1)">
+      <node ref="J9" pin="MH1" pinfunction="MH1" pintype="passive+no_connect"/>
+    </net>
+    <net code="207" name="unconnected-(J9-PadMH2)">
+      <node ref="J9" pin="MH2" pinfunction="MH2" pintype="passive+no_connect"/>
+    </net>
+    <net code="208" name="unconnected-(J9-PadMH3)">
+      <node ref="J9" pin="MH3" pinfunction="MH3" pintype="passive+no_connect"/>
+    </net>
+    <net code="209" name="unconnected-(J9-PadMH4)">
+      <node ref="J9" pin="MH4" pinfunction="MH4" pintype="passive+no_connect"/>
+    </net>
+    <net code="210" name="unconnected-(M3-PadJ2)">
+      <node ref="M3" pin="J2" pinfunction="SEL2" pintype="passive+no_connect"/>
+    </net>
+    <net code="211" name="unconnected-(M3-PadJ_GND2)">
+      <node ref="M3" pin="J_GND2" pinfunction="PULL_DOWN2" pintype="passive+no_connect"/>
+    </net>
+    <net code="212" name="unconnected-(M3-PadJ_VCC1)">
+      <node ref="M3" pin="J_VCC1" pinfunction="PULL_UP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="213" name="unconnected-(M3-PadJ_VCC2)">
+      <node ref="M3" pin="J_VCC2" pinfunction="PULL_UP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="214" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="215" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="216" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="217" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="218" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="219" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="V1" pintype="passive+no_connect"/>
+    </net>
+    <net code="220" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="V2" pintype="passive+no_connect"/>
+    </net>
+    <net code="221" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="V_EX" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
